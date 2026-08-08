@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm M.A.G.S 👋
 
-<!--
-**abdigansar123-cpu/abdigansar123-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Cyber Security** professional and **Game Design** enthusiast currently studying at Politeknik Negeri Cilacap. I bridge the gap between securing digital infrastructure and building immersive virtual worlds.
 
-Here are some ideas to get you started:
+## 🛡️ Cyber Security Interests
+- **Offensive Security:** Penetration Testing & Ethical Hacking
+- **Defensive Security:** Network Security & Vulnerability Analysis
+- **Automation:** Writing scripts in Python and Bash to speed up security audits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Game Design & World Building
+- Constructing detailed virtual environments and balancing game mechanics
+- Merging logic, storytelling, and system security into interactive designs
+
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, Bash, HTML/CSS
+- **OS / Environments:** Linux (Kali Linux, Ubuntu), Windows
+- **Tools:** Git, Wireshark, Nmap
+
+---
+*“Securing the code, building the world.”*
